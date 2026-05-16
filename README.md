@@ -1,7 +1,7 @@
 # How Analytics is Revolutionizing the Energy Industry
 
-**Published:** 2023-04-10
-**Medium:** [https://medium.com/@kyle-t-jones/how-analytics-is-revolutionizing-the-energy-industry-40941b202078](https://medium.com/@kyle-t-jones/how-analytics-is-revolutionizing-the-energy-industry-40941b202078)
+Published: 2023-04-10
+Medium: [https://medium.com/@kyle-t-jones/how-analytics-is-revolutionizing-the-energy-industry-40941b202078](https://medium.com/@kyle-t-jones/how-analytics-is-revolutionizing-the-energy-industry-40941b202078)
 
 ## About
 
